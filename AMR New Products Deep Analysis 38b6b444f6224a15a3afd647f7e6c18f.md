@@ -1,3 +1,21 @@
+## Hackbio-Cancer-Internship
+
+## programming in biology & Data visualization
+
+## Authors(@slack):
+
+Abdullah Ibrahim Ali(@Abdullah108)  
+Mahmoud Hassanen (@Mahmoud203)  
+Sarah Shebl (@Sarah50)  
+Kareem Elsayed Saad Abdell Gawad(@Kareem\_101)
+
+## Introduction
+
+Evaluation of  products related to combating antimicrobial resistance (AMR). To do this it could concentrate on such areas as the drug development pipelines, latest clinical trials, form of antibiotics, and major pathogens that these new therapies are directing towards. It also might consider the state of innovation of AMR related technologies and products, barriers to the development and launch of new products and solutions, as well as mechanisms of resistance to the new products and their differential distribution across the regions
+
+
+
+
 # AMR New Products Deep Analysis
 
 <aside>
@@ -230,8 +248,12 @@ the numbers of the **antibodies  type Drug** in the dataset is : 6 **Product**
 ![Rplot.png](Rplot.png)
 
 <aside>
-💡
+💡 It seems very Promising affective against all of the pathogens that had bee tested on  
 
-It seems very Promising affective against all of the pathogens that had bee tested on  
+</aside> 
 
-</aside>
+## Summary The Result
+
+From our analysis and summarize the given data( [here](https://vigorous-dahlia-f5d.notion.site/AMR-New-Products-Deep-Analysis-38b6b444f6224a15a3afd647f7e6c18f) you can find this deep analysis )  
+and after comparing between each product category and R.D.Phase.It turns out that the use of unconventional(Non-traditional) products is highly effective, up to 96%, and that taking medications intravenously is always effective.  
+You can see this [Infographic](https://drive.google.com/file/d/1xnLhcd_LJfnsJomjtbc3gQtF7GAVvwgg/view?usp=sharing)
