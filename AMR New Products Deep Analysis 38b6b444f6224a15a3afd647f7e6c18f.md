@@ -11,7 +11,7 @@ Kareem Elsayed Saad Abdell Gawad(@Kareem\_101)
 
 ## Introduction
 
-Evaluation of  products related to combating antimicrobial resistance (AMR). To do this it could concentrate on such areas as the drug development pipelines, latest clinical trials, form of antibiotics, and major pathogens that these new therapies are directing towards. It also might consider the state of innovation of AMR related technologies and products, barriers to the development and launch of new products and solutions, as well as mechanisms of resistance to the new products and their differential distribution across the regions
+Evaluation of  products related to combating antimicrobial resistance (AMR). To do this it could concentrate on such areas as the drug development pipelines, latest clinical trials, form of antibiotics, and major pathogens that these new therapies are directing towards. It also might consider the state of innovation of AMR related technologies and products, barriers to the development and launch of new products and solutions, as well as mechanisms of resistance to the new products and their differential distribution across the regions.
 
 
 
